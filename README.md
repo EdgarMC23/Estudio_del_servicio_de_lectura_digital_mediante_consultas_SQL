@@ -1,0 +1,2 @@
+# Estudio-del-servicio-de-lectura-digital-mediante-consultas-SQL
+El objetivo del proyecto fue analizar la base de datos para entender el comportamiento de los amantes de los libros y generar una propuesta para mejorar el servicio de lectura. Realicé un análisis exploratorio de datos, utilizando consultas SQL complejas, identificando métricas clave como los libros más comentados y las editoriales dominantes.
